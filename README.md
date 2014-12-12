@@ -7,7 +7,7 @@ O Elipse Mobile apresenta suporte ao Arduíno, comunicando-se com um número ili
 
 Com o Elipse Mobile, o usuário pode criar projetos e controlá-los via qualquer navegador, tablet ou smartphone, independente de sua localização. Agora, é possível ligar ou desligar um LED, por exemplo, e visualizar o valor de um botão através do software como demonstra o vídeo abaixo. 
 
-YT("Wwft9G0hm5E", print = TRUE)
+[![Tutorial Elipse Mobile e Arduíno](http://img.youtube.com/vi/Wwft9G0hm5E/0.jpg)](http://www.youtube.com/watch?v=Wwft9G0hm5E)
 
 Elipse Mobile
 =======
