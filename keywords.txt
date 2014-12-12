@@ -1,0 +1,4 @@
+ElipseMobile	KEYWORD1
+ProcessCommands	KEYWORD2
+DigitalTags	KEYWORD2
+AnalogTags	KEYWORD2
